@@ -1,6 +1,6 @@
 ![RobinHoodLogo](Robinhood-Logo-2013.png)
 # FinTech Case Study: RobinHood
-Contributors: Brigilda Lleshi
+Contributor: Brigilda Lleshi
 
 ## Overview and Origin
 This case study will discuss the overview and origin of the somewhat controversial FinTech brokerage platform, RobinHood Markets. Founded in Menlo Park, California, U.S.A., in 2013, by two New York City high-frequency trading developers, Vladimir Tenev and Baiju Bhatt, the "RobinHood" that is recognized by most millenials and younger plays on the medieval story of the legendary Robinhood, the outlaw who would take from the rich and give to the poor. Today's version of RobinHood has a similar mission-- RobinHood claims to provide a platform in financial markets for everyone, not just the wealthy. 
