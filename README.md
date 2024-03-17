@@ -1,4 +1,4 @@
-
+![RobinHoodLogo](Robinhood-Logo-2013.png)
 # FinTech Case Study: RobinHood
 
 ## Overview and Origin
