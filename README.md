@@ -1,4 +1,5 @@
 ![RobinHoodLogo](Robinhood-Logo-2013.png)
+![MARKDOWN](Markdown-000000_style=for-the-badge&logo=markdown&logoColor=white.png)
 # FinTech Case Study: RobinHood
 Contributor: Brigilda Lleshi
 
