@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 
 # FinTech Case Study: RobinHood
 
