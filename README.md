@@ -5,3 +5,6 @@ This case study will discuss the overview and origin of the somewhat controversi
 
 ## Business Activities
 The only requirements to trade on RobinHood Markets are to be a U.S. citizen who is over the age of 18 years. Most financial institutions, like Vanguard and Fidelity, for example, have high barriers to market entry for more "volatile" stocks and currencies, like cryptocurreny, by having options commissions, fractional investing share for ETFs, and other limitations. Alternatively and conveniently, RobinHood has no such restrictions, which is how it lives up to its claims of being a platform for all traders, regardless of financial market literacy. With its clear attempt to market trading to younger generationsa as it hosts over 23 million users, averaging 31 years of age, RobinHood facilitates hassle-free investment options for budding traders by offering "no commissions fees" on trades. According to its Fourth Quarter and Full Year 2023 Report Results, RobinHood reported  that "[transaction]-based revenues increased 8% [YTY] to $200 million, primarily driven by cryptocurrencies revenue of $43 million, up 10%," followed by $25 million in equities and options of $121 million. 
+
+## References
+
