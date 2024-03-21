@@ -13,3 +13,4 @@ The only requirements to trade on RobinHood Markets are to be a U.S. citizen who
 
 ## References
 1. https://investors.robinhood.com/news/news-details/2024/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2023-Results/default.aspx
+.
