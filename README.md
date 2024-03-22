@@ -23,6 +23,9 @@ Other ways in which the company makes money are:
 5. Cash Income
 6. Transfer Fees
 
+## Industry Impact
+RobinHood has piqued the interest of younger investors, which has pushed the "non-traditional" investor into wanting to learn more about stocks, cryptocurrency, ETFs, etc. Despite the concern that traditional brokerages have about reckless investing due to little to no market literacy, RobinHood has shown that the only way for younger investors to learn is to remove the rules and barriers and to simply attempt and learn from those mistakes. Historically, younger investors are less risk averse compared to their older counterparts, which only feeds the rapidly booming crypto market that has been spearheaded by RobinHood. The voracious appetite of the today's investor to trendset and learn is exactly why RobinHood is here to stay.
+
 ## References
 1. https://investors.robinhood.com/news/news-details/2024/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2023-Results/default.aspx
 2. https://seekingalpha.com/article/4447377-how-does-robinhood-make-money
