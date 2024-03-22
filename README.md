@@ -12,12 +12,14 @@ This case study will discuss the overview and origin of the somewhat controversi
 The only requirements to trade on RobinHood Markets are to be a U.S. citizen who is over the age of 18 years. Most financial institutions, who offer similar platforms, like Vanguard and Fidelity, have high barriers to market entry for more "volatile" stocks and currencies, like cryptocurreny, by having options commissions, fractional investing share for ETFs, and other limitations. Alternatively and conveniently, RobinHood has no such restrictions, which is how it lives up to its claims of being a platform for all traders, regardless of financial market literacy. With its clear attempt to market trading to younger generationsa as it hosts over 23 million users, averaging 31 years of age, RobinHood facilitates hassle-free investment options for budding traders by offering "no commissions fees" on trades.
 
 ## No Fees? So Where's the Money Coming From?
-According to its Fourth Quarter and Full Year 2023 Report Results [1], RobinHood reported  that "[transaction]-based revenues increased 8% [YTY] to $200 million, primarily driven by cryptocurrencies revenue of $43 million, up 10%," followed by $25 million in equities and options of $121 million. The transaction-based revenues are generated through RobinHood's use of market makers-- this tactic gives the popular platform an edge on competing with the stock market. In turn, market makers offer rebates to RobinHood. "Similarly, [RobinHood] Crypto" receives volme rebates from trading revenues." [2] Other ways in which the company makes money are:
-### 1. Subscriber Fees (RobinHood Gold)
-### 2. Stock Loans (Margin Trading)
-### 3. Cash Management Fees
-### 5. Cash Income
-### 6. Transfer Fees
+According to its Fourth Quarter and Full Year 2023 Report Results [1], RobinHood reported  that "[transaction]-based revenues increased 8% [YTY] to $200 million, primarily driven by cryptocurrencies revenue of $43 million, up 10%," followed by $25 million in equities and options of $121 million. The transaction-based revenues are generated through RobinHood's use of market makers-- this tactic gives the popular platform an edge on competing with the stock market. In turn, market makers offer rebates to RobinHood. "Similarly, [RobinHood] Crypto" receives volme rebates from trading revenues." [2] 
+
+Other ways in which the company makes money are:
+1. Subscriber Fees (RobinHood Gold)
+2. Stock Loans (Margin Trading)
+3. Cash Management Fees
+5. Cash Income
+6. Transfer Fees
 
 ## References
 1. https://investors.robinhood.com/news/news-details/2024/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2023-Results/default.aspx
