@@ -21,7 +21,7 @@ Other ways in which the company makes money are:
 5. Cash Income
 6. Transfer Fees
 
-
+![Financials](RHFinancialsScreenshot.png)
 
 ## References
 1. https://investors.robinhood.com/news/news-details/2024/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2023-Results/default.aspx
